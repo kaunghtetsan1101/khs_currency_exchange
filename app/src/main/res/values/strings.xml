@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="close">Close</string>
+    <string name="error">Error</string>
+    <string name="warning">Warning</string>
+    <string name="success">Success</string>
+    <string name="info">Info</string>
+    <string name="login_success">Login Success!</string>
+    <string name="fail">Fail.</string>
+    <string name="wrong">Wrong Credentials!</string>
+    <string name="already_register">User is already registered!!</string>
+    <string name="register_success">Register Success!</string>
+    <string name="password_format">Use at least 8 characters.</string>
+    <string name="not_register">Not Registered?</string>
+    <string name="fail_register">User registration is failed. </string>
+    <string name="go_feeds"> <font color='#FF0000'><u>Go to Newsfeed</u></font></string>
+    <string name="login_red"> <font color='#FF0000'><u>Login</u></font></string>
+
+    <string name="error_value_required">Value is required.</string>
+    <string name="error_invalid_email">Invalid Email Format.</string>
+    <string name="register">Register</string>
+    <string name="add_newsfeed">Add Newsfeed</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="hospital">Nearest Hospitals</string>
+    <string name="exit_toast_txt">Press once again to exit!</string>
+    <string name="not_same_password">Password and Confirm Password are not match.</string>
+    <string name="care_giver">Care Giver</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="contact">Gmail or Phone Number</string>
+    <string name="done">Done</string>
+    <string name="no_internet">There is no internet connection!!</string>
+    <string name="error_add_newsfeed">Adding newsfeed fail.</string>
+    <string name="name">Name</string>
+    <string name="instruction">Instruction</string>
+    <string name="cation">Caution</string>
+    <string name="photo_path">Photo Path</string>
+    <string name="add">Add</string>
+    <string name="api_key">puqoE0fjBhCOXVzB90sCuOGggNC4eF0l</string>
+    <string name="location_permission_denied">Permission Denied.</string>
+    <string name="text_no">No.</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="can_get_nearby_hospitals">Can\'t get Nearby Hospitals.</string>
+    <string name="take_pill">Take your pill</string>
+    <string name="stop">Stop</string>
+    <string name="ring">Ring...Ring</string>
+    <string name="check_user_fail">Check user alread existed fail.</string>
+    <string name="login_fail">Login Fail!</string>
+
+</resources>
